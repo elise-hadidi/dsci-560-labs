@@ -1,1 +1,2 @@
-# dsci-560-labs
+# dsci-560-lab-1
+
